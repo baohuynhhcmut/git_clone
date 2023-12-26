@@ -7,6 +7,7 @@ def sum(n):
 def add_100(n):
     return n+100
 
-def print():
+def print1():
     print("xin chao viet nam")
+
     
