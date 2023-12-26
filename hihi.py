@@ -6,4 +6,3 @@ def sum(n):
 
 def add_100(n):
     return n+100
-print("hello wolrd")
