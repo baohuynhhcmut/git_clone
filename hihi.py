@@ -10,4 +10,6 @@ def add_100(n):
 def print1():
     print("xin chao viet nam")
 
+print1()
+
     
